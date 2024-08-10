@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 void main() {
   runApp(Mycalculate());
@@ -174,7 +173,6 @@ class _MycalculateState extends State<Mycalculate> {
                         children: [
 
                           Image.asset("photo/MOBIL2.jpg",height: 300,width: 300,),
-
 
                         ],
                       )
